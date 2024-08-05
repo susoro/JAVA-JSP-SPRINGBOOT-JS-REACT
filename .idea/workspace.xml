@@ -62,7 +62,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.operators2">
+  <component name="RunManager">
     <configuration name="operators2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="operators2" />
       <module name="JAVA-STUDY" />
