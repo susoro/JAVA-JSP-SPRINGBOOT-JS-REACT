@@ -8,8 +8,6 @@ public class Main {
 
     }
 }
-
-
 /*
 * 	1.	package org.studyeasy;
 	•	이것은 프로그램이 속한 폴더나 그룹을 나타내요. 여기서는 org.studyeasy라는 폴더에 속한 프로그램이라는 뜻이에요.
