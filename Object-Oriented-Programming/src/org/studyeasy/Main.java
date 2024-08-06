@@ -2,19 +2,24 @@ package org.studyeasy;
 
 public class Main {
     public static void main(String[] args) {
-        Car car = new Car();// Car 객체 생성
-        car.setSpeed(1300);// 객체를 통해 setSpeed 메서드 호출
-        car.setDoors("closed"); //객체를 통해 setDoors 메서드 호출
-        car.setDriver("seated");
-        car.setEngine("on");
+        Car myCar = new Car("Closed", "on", "John Doe", 120);// Car 객체 생성
+        System.out.println("Car details:");
+        System.out.println("Doors: " + myCar.getDoors());
+        System.out.println("Engine: " + myCar.getEngine());
+        System.out.println("Driver: " + myCar.getDriver());
+        System.out.println("Speed: " + myCar.getSpeed());
 
-        car.setTest2(true);
+//        car.setSpeed(1300);// 객체를 통해 setSpeed 메서드 호출
+//        car.setDoors("closed"); //객체를 통해 setDoors 메서드 호출
+//        car.setDriver("seated");
+//        car.setEngine("on");
+//        car.setTest2(true);
 
-        System.out.println(car.run());
+//        System.out.println(myCar.run());
 //        setDoors 값이 0인 이유
-        System.out.println(car.speed);
-        System.out.println(car.getTest2());
-        System.out.println(car.getDoors());
+        System.out.println(myCar.speed);
+        //       System.out.println(myCar.getTest2());
+        System.out.println(myCar.getDoors());
     }
 }
 /*

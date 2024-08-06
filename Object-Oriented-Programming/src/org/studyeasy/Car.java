@@ -8,6 +8,33 @@ public class Car {
     public float test;
     public boolean test2;
 
+    public String brand;
+
+    //    생성자를 설정
+    public Car(String doors, String engine, String driver, int speed) {
+        this.doors = doors;
+        this.engine = engine;
+        this.driver = driver;
+        this.speed = speed;
+    }
+//    public Car(){
+//        doors = "Closed";
+//        engine = "off";
+//        driver = "away";
+//        speed = 0;
+//    }
+// 게터와 세터
+
+    public String getDoors() {
+        return doors;
+    }
+
+    public void setDoors(String doors) {
+        this.doors = doors;
+//        this.doors -> private String doors; 이것을 의미 : 특정 인스턴스를 상징
+//        doors -> String doors 우리가 지칭한 값을 이야기한다.
+    }
+
     public String getEngine() {
         return engine;
     }
@@ -24,53 +51,14 @@ public class Car {
         this.driver = driver;
     }
 
-
+    public int getSpeed() {
+        return speed;
+    }
 
     public void setSpeed(int speed) {
         this.speed = speed;
     }
-    public int getSpeed() {
-        return speed;
-    }
-    public float getTest() {
-        return test;
-    }
-
-    public void setTest(float test) {
-        this.test = test;
-    }
-
-
-    public void setTest2(boolean test2) {
-        this.test2 = true;
-    }
-    public boolean getTest2(){
-        return test2;
-    }
-    //setter 메서드
-    public void setDoors(String doors){
-        this.doors = doors;
-        /*
-        * doors = doors; 는 메서드의 매개변수 doors를 그대로 할당하는 코드로,
-        * 클래스의 인스턴스 변수 doors가 설정되지 않습니다.
-        * 이를 수정하려면 this.doors = doors;로 변경해야 합니다.
-        * this 키워드는 클래스의 인스턴스 변수를 참조하는 데 사용됩니다.
-        * */
-    }
-//getter 메서드
-    public String getDoors() {
-        return doors;
-        /*
-        * doors 변수에 접근할 수 있는 방법을 제공*/
-    }
-
-    public String run(){
-        if (doors.equals("closed") && engine.equals("on")
-                && driver.equals("seated") && speed > 0
-        ) {
-            return "running";
-        }else{
-            return  "not running";
-        }
-    }
 }
+
+
+
