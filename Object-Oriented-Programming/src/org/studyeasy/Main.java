@@ -6,7 +6,8 @@ public class Main {
         car.setDoors(4); //0
 //        setDoors 값이 0인 이유
         System.out.println(car.speed);
-
+        System.out.println(car.test2);
+        System.out.println(car.getDoors());
     }
 }
 /*
