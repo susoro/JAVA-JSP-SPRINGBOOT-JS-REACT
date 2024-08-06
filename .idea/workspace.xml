@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33ff9ebb-26df-4557-b401-f980b25e5209" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object-Oriented-Programming/src/org/studyeasy/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented-Programming/src/org/studyeasy/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object-Oriented-Programming/src/org/studyeasy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented-Programming/src/org/studyeasy/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="33ff9ebb-26df-4557-b401-f980b25e5209" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -141,6 +137,7 @@
       <workItem from="1722874766520" duration="318000" />
       <workItem from="1722928728530" duration="819000" />
       <workItem from="1722929552187" duration="30000" />
+      <workItem from="1722960954600" duration="338000" />
     </task>
     <servers />
   </component>
