@@ -4,7 +4,10 @@ public class Main {
     public static void main(String[] args) {
         Car car = new Car();// Car 객체 생성
         car.setSpeed(1300);// 객체를 통해 setSpeed 메서드 호출
-        car.setDoors("hi"); //객체를 통해 setDoors 메서드 호출
+        car.setDoors("closed"); //객체를 통해 setDoors 메서드 호출
+        car.setDriver("seated");
+        car.setEngine("on");
+
         car.setTest2(true);
 
         System.out.println(car.run());
