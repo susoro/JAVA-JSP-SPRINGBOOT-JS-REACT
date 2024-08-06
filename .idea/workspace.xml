@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33ff9ebb-26df-4557-b401-f980b25e5209" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object-Oriented-Programming/src/org/studyeasy/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented-Programming/src/org/studyeasy/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object-Oriented-Programming/src/org/studyeasy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented-Programming/src/org/studyeasy/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="33ff9ebb-26df-4557-b401-f980b25e5209" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +43,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "openjdk-21",
-    "last_opened_file_path": "/Users/jenn/Library/Mobile Documents/com~apple~CloudDocs/JAVA-JSP-SPRINGBOOT-JS-REACT",
+    "last_opened_file_path": "/Users/jenn/Library/Mobile Documents/com~apple~CloudDocs/Github_imac/JAVA-JSP-SPRINGBOOT-JS-REACT",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,7 +61,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.operators2">
     <configuration name="operators2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="operators2" />
       <module name="JAVA-STUDY" />
@@ -142,6 +137,7 @@
       <workItem from="1722928728530" duration="819000" />
       <workItem from="1722929552187" duration="30000" />
       <workItem from="1722952518979" duration="146000" />
+      <workItem from="1722956975448" duration="34000" />
     </task>
     <servers />
   </component>
