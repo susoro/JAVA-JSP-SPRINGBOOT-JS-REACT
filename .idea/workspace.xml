@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33ff9ebb-26df-4557-b401-f980b25e5209" name="Changes" comment="" />
+    <list default="true" id="33ff9ebb-26df-4557-b401-f980b25e5209" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented-Programming/src/org/studyeasy/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented-Programming/src/org/studyeasy/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented-Programming/src/org/studyeasy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented-Programming/src/org/studyeasy/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,17 +44,18 @@
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/jenn/Library/Mobile Documents/com~apple~CloudDocs/Github_imac/JAVA-JSP-SPRINGBOOT-JS-REACT&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jenn/Library/Mobile Documents/com~apple~CloudDocs/JAVA-JSP-SPRINGBOOT-JS-REACT&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/jenn/Library/Mobile Documents/com~apple~CloudDocs/JAVA-JSP-SPRINGBOOT-JS-REACT/JAVA-STUDY/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -136,73 +141,18 @@
       <workItem from="1722874766520" duration="318000" />
       <workItem from="1722928728530" duration="819000" />
       <workItem from="1722929552187" duration="30000" />
-      <workItem from="1722952518979" duration="146000" />
-      <workItem from="1722956975448" duration="34000" />
-      <workItem from="1722958136870" duration="74000" />
-      <workItem from="1722958252441" duration="107000" />
-      <workItem from="1722958531962" duration="203000" />
-      <workItem from="1722958813376" duration="59000" />
-      <workItem from="1722958931201" duration="16000" />
-      <workItem from="1722960347397" duration="36000" />
-      <workItem from="1722961256041" duration="675000" />
     </task>
-    <task id="LOCAL-00001" summary="update">
-      <option name="closed" value="true" />
-      <created>1722958291973</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1722958291973</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Revert &quot;자바에서의 상속&quot;&#10;&#10;This reverts commit 554ff710">
-      <option name="closed" value="true" />
-      <created>1722961538570</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1722961538570</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Paths">
-          <value>
-            <list>
-              <RecentGroup>
-                <option name="FILTER_VALUES">
-                  <option value="dir:/Users/jenn/Library/Mobile Documents/com~apple~CloudDocs/Github_imac/JAVA-JSP-SPRINGBOOT-JS-REACT/Inheritance" />
-                  <option value="dir:/Users/jenn/Library/Mobile Documents/com~apple~CloudDocs/Github_imac/JAVA-JSP-SPRINGBOOT-JS-REACT" />
-                </option>
-              </RecentGroup>
-            </list>
-          </value>
-        </entry>
-      </map>
-    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="roots">
-                    <value>
-                      <list>
-                        <option value="$PROJECT_DIR$/Inheritance" />
-                        <option value="$PROJECT_DIR$" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -211,8 +161,6 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
-    <MESSAGE value="update" />
-    <MESSAGE value="Revert &quot;자바에서의 상속&quot;&#10;&#10;This reverts commit 554ff710" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;자바에서의 상속&quot;&#10;&#10;This reverts commit 554ff710" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
