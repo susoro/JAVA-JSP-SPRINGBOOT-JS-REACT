@@ -1,7 +1,7 @@
 package org.studyeasy;
 
 public class Car {
-    private int doors;
+    private String doors;
     private String engine;
     private String driver;
     public int speed;
@@ -24,14 +24,14 @@ public class Car {
         this.driver = driver;
     }
 
-    public int getSpeed() {
-        return speed;
-    }
+
 
     public void setSpeed(int speed) {
         this.speed = speed;
     }
-
+    public int getSpeed() {
+        return speed;
+    }
     public float getTest() {
         return test;
     }
@@ -40,16 +40,15 @@ public class Car {
         this.test = test;
     }
 
-    public boolean isTest2() {
-        return test2;
-    }
 
     public void setTest2(boolean test2) {
-        this.test2 = ture;
+        this.test2 = true;
     }
-
+    public boolean getTest2(){
+        return test2;
+    }
     //setter 메서드
-    public void setDoors(int doors){
+    public void setDoors(String doors){
         this.doors = doors;
         /*
         * doors = doors; 는 메서드의 매개변수 doors를 그대로 할당하는 코드로,
@@ -59,12 +58,19 @@ public class Car {
         * */
     }
 //getter 메서드
-    public int getDoors() {
+    public String getDoors() {
         return doors;
         /*
         * doors 변수에 접근할 수 있는 방법을 제공*/
     }
-    public boolean getTest2(){
-        return test2;
+
+    public String run(){
+        if (doors.equals("closed") && engine.equals("on")
+                && driver.equals("seated") && speed > 0
+        ) {
+            return "running";
+        }else{
+            return  "not running";
+        }
     }
 }

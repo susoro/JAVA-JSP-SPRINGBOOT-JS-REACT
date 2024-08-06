@@ -2,11 +2,15 @@ package org.studyeasy;
 
 public class Main {
     public static void main(String[] args) {
-        Car car = new Car();
-        car.setDoors(4); //0
+        Car car = new Car();// Car 객체 생성
+        car.setSpeed(1300);// 객체를 통해 setSpeed 메서드 호출
+        car.setDoors("hi"); //객체를 통해 setDoors 메서드 호출
+        car.setTest2(true);
+
+        System.out.println(car.run());
 //        setDoors 값이 0인 이유
         System.out.println(car.speed);
-        System.out.println(car.test2);
+        System.out.println(car.getTest2());
         System.out.println(car.getDoors());
     }
 }
