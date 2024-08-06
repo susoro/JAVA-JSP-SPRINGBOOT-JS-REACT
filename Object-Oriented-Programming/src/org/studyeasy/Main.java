@@ -3,7 +3,8 @@ package org.studyeasy;
 public class Main {
     public static void main(String[] args) {
         Car car = new Car();
-        car.speed = 120;
+        car.setDoors(4); //0
+//        setDoors 값이 0인 이유
         System.out.println(car.speed);
 
     }

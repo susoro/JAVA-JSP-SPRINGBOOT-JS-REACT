@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33ff9ebb-26df-4557-b401-f980b25e5209" name="Changes" comment="" />
+    <list default="true" id="33ff9ebb-26df-4557-b401-f980b25e5209" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented-Programming/src/org/studyeasy/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented-Programming/src/org/studyeasy/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented-Programming/src/org/studyeasy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented-Programming/src/org/studyeasy/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +66,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.operators2">
     <configuration name="operators2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="operators2" />
       <module name="JAVA-STUDY" />
@@ -134,6 +138,9 @@
       <workItem from="1722870063605" duration="17000" />
       <workItem from="1722870084497" duration="21000" />
       <workItem from="1722874468269" duration="167000" />
+      <workItem from="1722874766520" duration="318000" />
+      <workItem from="1722928728530" duration="819000" />
+      <workItem from="1722929552187" duration="30000" />
     </task>
     <servers />
   </component>
@@ -153,5 +160,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
