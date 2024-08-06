@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33ff9ebb-26df-4557-b401-f980b25e5209" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Inheritance/src/org/studyeasy/vehicles/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/src/org/studyeasy/vehicles/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/src/org/studyeasy/vehicles/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/src/org/studyeasy/vehicles/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object-Oriented-Programming/src/org/studyeasy/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented-Programming/src/org/studyeasy/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object-Oriented-Programming/src/org/studyeasy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented-Programming/src/org/studyeasy/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +61,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -162,5 +169,16 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Inheritance/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
